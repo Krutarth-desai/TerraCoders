@@ -1,4 +1,4 @@
-# GreenDrop 2.0
+# GreenDrop
 
 GreenDrop remains an HTML, CSS and vanilla JavaScript application, packaged in a minimal Android WebView shell. No React, Flutter or framework migration is involved.
 
